@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HCK7W8Qb52ifS/giphy.gif" width="100"/>
-</div>
-
 #
 ### Languages and Tools
 
